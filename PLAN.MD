@@ -1,3 +1,15 @@
+Prompt to o1
+
+I have an MS in computer science from Detroit Mercy. I am backend/distributed systems engineer with 7 YOE. I have strong CS fundamentals, but a shallow theoretically data science/ML background. I work at a company that builds end to end machine learning products. I have a decent sense of MLOps and infrastructure and tooling around it.
+
+I want you to create me a systematic study plan to be on par with a PhD data scientist to round out my skill set. Make me a long term study plan in a 365 day by day format.
+
+My calculus and stats are probably deficient.
+
++ some prodding to get it to markdown and actually do every day.
+
+
+
 # 365-Day Data Science & ML Study Plan
 
 **Suggested Study Habit:**  
